@@ -1,0 +1,6 @@
+{
+  "name": "PW Companion",
+  "description": "Physics Wallah companion app to track attended & missed lectures, schedule homework with PDF attachments, view home screen widgets, calendar sync, and receive assignment notifications with a sleek dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
